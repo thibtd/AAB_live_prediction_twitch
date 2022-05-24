@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1652902518517,"sparkVersion":"3.2.1","uid":"Tokenizer_9f2e77e785df","paramMap":{"outputCol":"mess_tok","inputCol":"text"},"defaultParamMap":{"outputCol":"Tokenizer_9f2e77e785df__output"}}
